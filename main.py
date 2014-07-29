@@ -17,3 +17,5 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 print "This program is under development."
+
+raw_input("press enter to exit")
